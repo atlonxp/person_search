@@ -54,7 +54,11 @@ Or you can use CPU only by setting ``--gpu -1``.
 
 ## Experiments
 
-1. Request the dataset from sli [at] ee.cuhk.edu.hk or xiaotong [at] ee.cuhk.edu.hk (academic only). Then
+1. Dataset(academic only). Get the datasets from the following links: 
+   * Google Drive: `https://drive.google.com/open?id=1mlPpKPSWUR_X8A4ZGaVntKUanijAB-MD `
+   * Baidu Yun: `https://pan.baidu.com/s/1qXSEHLq`  Passwd: `7mhv`
+
+  Then
 
   ```Shell
   experiments/scripts/prepare_data.sh /path/to/the/downloaded/dataset.zip
